@@ -6,6 +6,7 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 - [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
 
 ## Notes:
+- Use this [Recovery](https://t.me/PocoX3_Official/4346)
 - This is a first build, every bug report and feedback is good for next update.
 - The phone takes some time to move from splash logo while it's booting. Don't worry, it's a feature for smoothnes ;).
 - Ported from Diting (Xiaomi 12 Pro)
