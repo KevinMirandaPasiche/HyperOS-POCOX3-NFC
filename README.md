@@ -5,6 +5,12 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 ## Download
 - [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
 
+## Notes:
+- This is a first build, every bug report and feedback is good for next update.
+- The phone takes some time to move from splash logo while it's booting. Don't worry, it's a feature for smoothnes ;).
+- Ported from Diting (Xiaomi 12 Pro)
+- You can report bugs to: [Kevin Miranda](https://t.me/KevinMirandaPasiche)
+
 ## Changelog
 31/01/'24:
 - Non-rooted build.
@@ -17,11 +23,7 @@ GMS: Integrity, Certification, SafetyNet. ROOT users should enable Denylist, Enf
 - Play Store by default.
 - This build doesn't contain extra modifications.
 
-## Notes:
-- This is a first build, every bug report and feedback is good for next update.
-- The phone takes some time to move from splash logo while it's booting. Don't worry, it's a feature for smoothnes ;).
-- Ported from Diting (Xiaomi 12 Pro)
-- You can report bugs to: @quebin_bot
+
 
 
 
