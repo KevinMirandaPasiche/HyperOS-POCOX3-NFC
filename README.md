@@ -3,7 +3,8 @@
 HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Download
-- Latest: 24.2.26 [GDrive](https://drive.google.com/file/d/1WG8INpBIniDFlvc128qkXaC68zBf-u7S/view?usp=sharing)
+- Latest: 24.3.4 [GDrive](https://drive.google.com/file/d/1Lld8UonFfY1zvXVls74VP8lBBtqQbVpQ/view?usp=sharing)
+- 24.2.26 [GDrive](https://drive.google.com/file/d/1WG8INpBIniDFlvc128qkXaC68zBf-u7S/view?usp=sharing)
 - 24.1.22 [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
 
 ## Notes
@@ -12,6 +13,14 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 - Ported from Diting (Xiaomi 12T Pro).
 
 ## Changelog
+11/03/'24:
+- Base updated
+- Fixed Swift Backup crash
+- Fixed Bluetooth audio volume adjustment
+- Improved Brightness
+- Added some extra options
+- Overall improvements...
+
 02/03/'24:
 - Added some options from xiaomi.eu
 - Added access to hidden activities: Notification history and Screen dim.
@@ -38,6 +47,7 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 - EvolutionX
 - Xiaomi.eu
 - Kakashi1v1
+- Yar_Zloy
 
 
 
