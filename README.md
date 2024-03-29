@@ -3,7 +3,8 @@
 HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Download
-- Latest: 24.3.4 [GDrive](https://drive.google.com/file/d/1Lld8UonFfY1zvXVls74VP8lBBtqQbVpQ/view?usp=sharing)
+- Latest: 24.3.18 [GDrive](https://drive.google.com/file/d/1ccxNpraJg7Z6xFB1amUsgUGpVXfZn3ak/view?usp=sharing)
+- 24.3.4 [GDrive](https://drive.google.com/file/d/1Lld8UonFfY1zvXVls74VP8lBBtqQbVpQ/view?usp=sharing)
 - 24.2.26 [GDrive](https://drive.google.com/file/d/1WG8INpBIniDFlvc128qkXaC68zBf-u7S/view?usp=sharing)
 - 24.1.22 [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
 
@@ -13,6 +14,17 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 - Ported from Diting (Xiaomi 12T Pro).
 
 ## Changelog
+29/03/'24:
+- Base updated.
+- Media player: Adjusted icon actions size and added a squiggly progress bar.
+- Included an option to allow all apps to be floating window from notifications.
+- Added more options to the launcher.
+- Imported language selection from MIUI Global.
+- Removed floating windows restrictions.
+- Fixed "Ok Google".
+- Corrected the functionality of taplus.
+- Well, there is always more behind ;).
+
 11/03/'24:
 - Base updated
 - Fixed Swift Backup crash
