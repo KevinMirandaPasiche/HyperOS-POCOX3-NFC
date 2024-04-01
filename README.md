@@ -3,10 +3,9 @@
 HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Download
-- Latest: 24.3.18 [GDrive](https://drive.google.com/file/d/1ccxNpraJg7Z6xFB1amUsgUGpVXfZn3ak/view?usp=sharing)
-- 24.3.4 [GDrive](https://drive.google.com/file/d/1Lld8UonFfY1zvXVls74VP8lBBtqQbVpQ/view?usp=sharing)
-- 24.2.26 [GDrive](https://drive.google.com/file/d/1WG8INpBIniDFlvc128qkXaC68zBf-u7S/view?usp=sharing)
-- 24.1.22 [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
+- Latest: 24.3.18 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.18_POCOX3NFC.zip/download)
+- 24.3.4 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.4_POCOX3NFC.zip/download)
+- 24.2.26 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.2.26_POCOX3NFC.zip/download)
 
 ## Notes
 - Use this [Recovery](https://t.me/POCOHUB_Cloud/2148)
