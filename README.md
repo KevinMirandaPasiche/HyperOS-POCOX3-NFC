@@ -15,10 +15,10 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Changelog
 19/05/'24:
-• Base updated.
-• Play Integrity fixed.
-• Hybrid installer.
-• There is always more behind ;)
+- Base updated.
+- Play Integrity fixed.
+- Hybrid installer.
+- There is always more behind ;)
 
 29/03/'24:
 - Base updated.
