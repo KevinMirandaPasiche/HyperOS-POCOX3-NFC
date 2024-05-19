@@ -3,7 +3,8 @@
 HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Download
-- Latest: 24.3.18 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.18_POCOX3NFC.zip/download)
+- Latest: 24.5.6 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/hyperos_1.0.24.5.6_POCOX3NFC.zip/download)
+- 24.3.18 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.18_POCOX3NFC.zip/download)
 - 24.3.4 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.4_POCOX3NFC.zip/download)
 - 24.2.26 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.2.26_POCOX3NFC.zip/download)
 
@@ -13,6 +14,12 @@ HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 - Ported from Diting (Xiaomi 12T Pro).
 
 ## Changelog
+19/05/'24:
+• Base updated.
+• Play Integrity fixed.
+• Hybrid installer.
+• There is always more behind ;)
+
 29/03/'24:
 - Base updated.
 - Media player: Adjusted icon actions size and added a squiggly progress bar.
