@@ -3,7 +3,7 @@
 HyperOS PORTS for POCO X3/NFC by Kevin Miranda
 
 ## Download
-- Latest: 24.5.6 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/hyperOS_1.0.24.5.20_POCOX3NFC.zip/download)
+- Latest: 24.5.20 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/hyperOS_1.0.24.5.20_POCOX3NFC.zip/download)
 - 24.5.6 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/%5BvideoFix%5DhyperOS_1.0.24.5.6_POCOX3NFC.zip/download)
 - 24.3.18 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.18_POCOX3NFC.zip/download)
 - 24.3.4 [SourceForge](https://sourceforge.net/projects/quebin-rums/files/HyperOS_24.3.4_POCOX3NFC.zip/download)
